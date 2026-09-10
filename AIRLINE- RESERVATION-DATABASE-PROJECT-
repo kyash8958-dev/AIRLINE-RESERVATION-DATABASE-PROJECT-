@@ -1,0 +1,63 @@
+# Airline Reservation Database Project
+
+## 📌 Project Overview
+This project is a MySQL-based Airline Reservation Database System.
+
+It manages flights, passengers, seats, routes, and ticket bookings using relational database concepts.
+
+## 🗂️ Database Tables
+
+The database contains the following tables:
+
+- `maps` – Stores flight routes and cities
+- `flights` – Stores flight information
+- `passengers` – Stores passenger details
+- `seats` – Stores seat information and availability
+- `tickets` – Stores ticket booking and payment details
+
+## 🚀 Features
+
+- Flight and route management
+- Passenger management
+- Seat availability tracking
+- Ticket booking system
+- Automatic seat status update using Trigger
+- Ticket details using SQL View
+- JOIN queries
+- GROUP BY and HAVING
+- Subqueries
+- Aggregate functions such as COUNT, SUM and AVG
+
+## 🧠 SQL Concepts Used
+
+- CREATE DATABASE
+- CREATE TABLE
+- PRIMARY KEY
+- FOREIGN KEY
+- UNIQUE constraint
+- NOT NULL constraint
+- INSERT
+- SELECT
+- JOIN
+- GROUP BY
+- HAVING
+- Subquery
+- VIEW
+- TRIGGER
+- Aggregate Functions
+
+## ⚙️ How to Run
+
+1. Install MySQL 8+.
+2. Open MySQL Workbench or MySQL command line.
+3. Open `airline_reservation.sql`.
+4. Execute the complete SQL script.
+5. The database and sample data will be created automatically.
+
+## 📁 Project File
+
+`airline_reservation.sql`
+
+## 👨‍💻 Author
+
+Yash
